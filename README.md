@@ -1,4 +1,3 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:720/format:webp/1*K8XgRuFvD-L_bFDWwdkKew.png)
 <h1 align="center">Hi 👋, I'm Mustafa Sineci</h1>
 <h3 align="center">I am a software engineer and I live in Turkey</h3>
 
