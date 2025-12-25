@@ -32,7 +32,8 @@ I enjoy building cross-platform, interactive, and user-friendly digital experien
 </a>
 
 <a href="https://tailwindcss.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+       alt="Tailwind CSS" width="40" height="40"/>
 </a>
 
 <a href="https://nodejs.org/" target="_blank">
@@ -48,7 +49,8 @@ I enjoy building cross-platform, interactive, and user-friendly digital experien
 </a>
 
 <a href="https://www.unrealengine.com/" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/unreal-engine.svg" alt="Unreal Engine" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/unrealengine/unrealengine-icon.svg"
+       alt="Unreal Engine" width="40" height="40"/>
 </a>
 
 <a href="https://git-scm.com/" target="_blank">
