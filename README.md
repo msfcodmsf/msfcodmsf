@@ -49,9 +49,10 @@ I enjoy building cross-platform, interactive, and user-friendly digital experien
 </a>
 
 <a href="https://www.unrealengine.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/unrealengine/unrealengine-icon.svg"
-       alt="Unreal Engine" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"
+       alt="Unreal Engine"/>
 </a>
+
 
 <a href="https://git-scm.com/" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
